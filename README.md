@@ -113,3 +113,8 @@ iperf3 -c 0.0.0.0 -p 1234 -u -b 1G --length 1024
 | ---- | ----  | ---- | ---- | ---- | ---- |
 | tcp  | 62.6 Gbits/sec | 23.9 Gbits/sec | 14.65 Gbits/sec | 4.22 Gbits/sec | 2.43 Gbits/sec |
 | udp  | 2.2 Gbits/sec | 2.2 Gbits/sec | 暂不支持 | 暂不支持 | 暂不支持 |
+
+
+### 总结
+下载地址:
+https://github.com/Ehco1996/ehco/releases/download/v0.1.6/ehco_0.1.6_Linux_amd64.tar.gz
